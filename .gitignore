@@ -1,0 +1,11 @@
+﻿.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.npy
+*.npz
+student_resources/output/
+student_resources/data_set/
+student_resources/code/**/__pycache__/
